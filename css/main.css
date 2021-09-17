@@ -25,3 +25,9 @@ header {
     
 }
 
+/* main */
+.main-conteiner {
+    width: 1170px;
+    height: 500px; 
+    background-color: #e1d67a;
+}
